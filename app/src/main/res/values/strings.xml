@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_description">Detects launches of apps whose FocusLock time limit has expired and displays FocusLock’s blocking screen. It does not read passwords, typed text, or web content.</string>
+</resources>
